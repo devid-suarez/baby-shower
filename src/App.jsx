@@ -275,7 +275,7 @@ export default function App() {
   }, []);
 
   const handleLocationClick = () => {
-    window.open('https://www.google.com/maps/search/?api=1&query=Calle+48Q+sur+%235C+-+59+Bogota', '_blank');
+    window.open('https://www.google.com/maps/search/?api=1&query=4.550745,-74.111123', '_blank');
   };
 
   return (
